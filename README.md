@@ -1,4 +1,6 @@
 ![logo](https://github.com/vishal8113/vishal8113/blob/main/enhanced.jpeg)
+<h1 align="center">Hi 👋, I'm Vishal Chauhan</h1>
+<h3 align="center">Transforming Dreams into Code | Aspiring Software Developer</h3>
 # 💫 About Me:
 <img align="right" alt="developer" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 🔭 I’m currently studying Computer Science<br>👯 I’m looking to collaborate on Android and web projects<br>💬 Ask me about Android Dev, Web Dev, and Dsa<br>⚡ Fun fact - Have a black belt in debugging! 🥋💻
