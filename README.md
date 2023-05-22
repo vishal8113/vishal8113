@@ -1,11 +1,11 @@
 ![logo](https://github.com/vishal8113/vishal8113/blob/main/enhanced.jpeg)
-<h1 align="center">Hi 👋, I'm Vishal Chauhan</h1>
+<p align="center">
+  <a href="https://github.com/vishal8113/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20👋,%20I'm%20Vishal%20Chauhan;I'm%20an%20App%20Developer;Currently%20Learning%20Full%20Stack%20Development;1.5%20years%20of%20Coding%20Experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24"></a>
+</p>
 <h3 align="center">Transforming Dreams into Code | Aspiring Software Developer</h3>
 # 💫 About Me:
 <img align="right" alt="developer" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 🔭 I’m currently studying Computer Science<br>👯 I’m looking to collaborate on Android and web projects<br>💬 Ask me about Android Dev, Web Dev, and Dsa<br>⚡ Fun fact - Have a black belt in debugging! 🥋💻<br>📫 How to reach me - vccv520@gmail.com
-
-
 
 
 ## 🌐 Socials:
