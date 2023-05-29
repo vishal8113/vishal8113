@@ -1,4 +1,4 @@
-![logo](https://github.com/vishal8113/vishal8113/blob/main/enhanced.jpeg)
+<!-- ![logo](https://github.com/vishal8113/vishal8113/blob/main/enhanced.jpeg) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20👋,%20I'm%20Vishal%20Chauhan;I'm%20an%20App%20Developer;Currently%20Learning%20Full%20Stack%20Development;1.5%20years%20of%20Coding%20Experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24">
 </p>
